@@ -1,6 +1,6 @@
 *** Settings ***
 Library   Browser
-Variables    ../../../../Pages/Home/locators.py
+Variables    ../locators.py
 
 *** Keywords ***
 I Select Test App 1
