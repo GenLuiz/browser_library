@@ -8,3 +8,5 @@ interactive_console_output.xml
 *.pabotsuitenames
 debug.log
 browser/.
+/Pages/*/__pycache__
+Tests/*/__pycache__

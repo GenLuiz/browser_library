@@ -1,4 +1,3 @@
-TEST_APP1="xpath"
-TEST_APP2="xpath"
+MENS_WEAR="a:has-text(\"Men's Outerwear\")"
 
-RIGHT_ARROW_BTN="nextpage_xpath"
+LADIES_WEAR="a:has-text(\"Ladies Outerwear\")"
